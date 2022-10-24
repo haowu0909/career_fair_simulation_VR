@@ -1,0 +1,21 @@
+UI Contribution (25). How significant is the UI contribution of the project? Is the project simply an application, or does it have a substantial focus on new UI technology? How novel and creative is the system?
+15 (changed from 10 after regrade)
+
+Technical Complexity (25). Projects should represent a substantial implementation effort.
+15 (changed from 10 after regrade)
+
+Usability (25). Does the project work as intended?  Are there any serious usability problems or bugs? 
+20
+
+Documentation (5).  Are all the functions sufficiently described in the documentation?
+5
+
+Comments:
+
+The basic interaction techniques (grabbing, locomotion) were already implemented in the assignments.
+
+The spatial menus for teleportation were reasonable and worked well.
+
+The 3D minimap was not interactive, so it was unclear what purpose this would serve.  It would potentially be useful if the user could teleport using the minimap.
+
+The triangle manipulation technique was designed for use on touch surfaces, such as multitouch workbench or tablet.  This did not seem to be a good choice for fully immersive VR, as there are spatial interaction techniques that would work better in three dimensions.
